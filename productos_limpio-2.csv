@@ -1,0 +1,145 @@
+producto_id,nombre,categoria,precio,costo,fecha_alta
+1,Espresso Chico,Cafe Caliente,34.0,12.58,2024-04-15
+2,Espresso Mediano,Cafe Caliente,44.0,15.4,2020-12-29
+3,Espresso Grande,Cafe Caliente,54.0,19.44,2022-08-11
+4,Americano Chico,Cafe Caliente,36.0,12.24,2022-11-02
+5,Americano Mediano,Cafe Caliente,46.0,18.4,2021-12-16
+6,Americano Grande,Cafe Caliente,56.0,21.28,2024-05-02
+8,Latte Mediano,Cafe Caliente,48.0,19.68,2021-08-07
+9,Latte Grande,Cafe Caliente,58.0,19.72,2022-10-08
+10,Capuchino Chico,Cafe Caliente,36.0,12.96,2021-07-21
+11,Capuchino Mediano,Cafe Caliente,46.0,17.02,2022-06-14
+12,Capuchino Grande,Cafe Caliente,56.0,20.16,2021-06-21
+13,Mocha Chico,Cafe Caliente,36.0,12.6,2022-06-25
+14,Mocha Mediano,Cafe Caliente,46.0,17.02,2021-12-17
+15,Mocha Grande,Cafe Caliente,56.0,20.16,2023-07-31
+16,Cortado Chico,Cafe Caliente,34.0,13.6,2021-11-26
+17,Cortado Mediano,Cafe Caliente,44.0,18.04,2021-05-07
+18,Cortado Grande,Cafe Caliente,54.0,18.9,2023-07-22
+19,Flat White Chico,Cafe Caliente,34.0,12.92,2022-03-16
+20,Flat White Mediano,Cafe Caliente,44.0,17.16,2021-10-11
+21,Flat White Grande,Cafe Caliente,54.0,17.82,2023-02-10
+22,Macchiato Chico,Cafe Caliente,38.0,15.2,2022-02-25
+23,Macchiato Mediano,Cafe Caliente,48.0,19.2,2023-09-14
+24,Macchiato Grande,Cafe Caliente,58.0,19.72,2024-08-26
+25,Chocolate caliente Chico,Cafe Caliente,34.0,12.92,2022-04-08
+26,Chocolate caliente Mediano,Cafe Caliente,44.0,17.6,2022-10-26
+27,Chocolate caliente Grande,Cafe Caliente,54.0,22.14,2022-02-11
+28,Chai latte Chico,Cafe Caliente,36.0,12.96,2022-05-27
+29,Chai latte Mediano,Cafe Caliente,46.0,17.02,2023-03-18
+30,Chai latte Grande,Cafe Caliente,56.0,19.04,2024-04-14
+31,Cold brew Chico,Cafe Frio,55.0,23.1,2021-12-12
+32,Cold brew Mediano,Cafe Frio,68.0,24.48,2023-10-24
+33,Cold brew Grande,Cafe Frio,81.0,37.26,2022-02-24
+34,Frappe de cafe Chico,Cafe Frio,52.0,21.32,2022-10-05
+35,Frappe de cafe Mediano,Cafe Frio,65.0,21.45,2022-07-13
+36,Frappe de cafe Grande,Cafe Frio,78.0,67.08,2024-04-27
+37,Frappe de chocolate Chico,Cafe Frio,52.0,19.76,2024-05-15
+38,Frappe de chocolate Mediano,Cafe Frio,65.0,26.65,2024-02-28
+39,Frappe de chocolate Grande,Cafe Frio,78.0,31.98,2023-05-02
+40,Latte helado Chico,Cafe Frio,58.0,24.94,2024-10-22
+41,Latte helado Mediano,Cafe Frio,71.0,25.56,2022-01-29
+42,Latte helado Grande,Cafe Frio,84.0,35.28,2021-10-11
+43,Affogato Chico,Cafe Frio,52.0,20.28,2021-06-26
+44,Affogato Mediano,Cafe Frio,65.0,28.6,2024-05-13
+45,Affogato Grande,Cafe Frio,78.0,29.64,2024-01-29
+46,Te helado Chico,Cafe Frio,58.0,20.88,2024-01-02
+47,Te helado Mediano,Cafe Frio,71.0,27.69,2024-10-04
+48,Te helado Grande,Cafe Frio,84.0,37.8,2024-06-04
+49,Limonada natural Chico,Cafe Frio,52.0,22.88,2024-09-10
+50,Limonada natural Mediano,Cafe Frio,65.0,20.8,2021-01-03
+51,Limonada natural Grande,Cafe Frio,78.0,28.08,2024-02-27
+52,Matcha helado Chico,Cafe Frio,55.0,24.75,2023-11-18
+53,Matcha helado Mediano,Cafe Frio,68.0,23.12,2022-05-28
+54,Matcha helado Grande,Cafe Frio,81.0,33.21,2023-07-13
+55,Cheesecake,Pasteleria,48.0,20.64,2021-03-17
+56,Pay de queso,Pasteleria,55.0,19.25,2024-07-26
+57,Brownie,Pasteleria,72.0,34.56,2022-02-15
+58,Tarta de manzana,Pasteleria,48.0,17.28,2021-12-09
+59,Rebanada de chocolate,Pasteleria,55.0,20.35,2022-08-26
+60,Carrot cake,Pasteleria,62.0,25.42,2024-05-24
+61,Tiramisu,Pasteleria,72.0,51.84,2023-05-12
+62,Flan napolitano,Pasteleria,72.0,30.24,2022-07-04
+63,Galleta de avena,Pasteleria,62.0,25.42,2022-02-18
+64,Muffin de arandano,Pasteleria,72.0,25.92,2023-04-21
+65,Red velvet,Pasteleria,48.0,23.04,2024-04-25
+66,Pan de elote,Pasteleria,72.0,31.68,2021-01-29
+67,Croissant,Panaderia,22.0,9.68,2023-12-16
+68,Concha,Panaderia,26.0,9.88,2021-10-26
+69,Cuernito,Panaderia,22.0,7.04,2021-09-20
+70,Bisquet,Panaderia,38.0,15.58,2021-09-06
+71,Mantecada,Panaderia,26.0,10.4,2023-05-11
+72,Dona glaseada,Panaderia,18.0,7.92,2020-12-31
+73,Empanada de cajeta,Panaderia,18.0,7.38,2023-10-19
+74,Garibaldi,Panaderia,18.0,6.84,2024-06-24
+75,Oreja,Panaderia,26.0,11.44,2023-05-27
+76,Polvoron,Panaderia,18.0,5.4,2023-05-25
+77,Bolillo relleno,Panaderia,30.0,13.2,2023-07-09
+78,Dona de chocolate,Panaderia,18.0,6.3,2021-09-09
+79,Sandwich de jamon,Snacks Salados,125.0,65.0,2023-01-26
+80,Panini caprese,Snacks Salados,110.0,51.7,2021-05-22
+81,Bagel con salmon,Snacks Salados,72.0,36.72,2023-08-18
+82,Quiche lorraine,Snacks Salados,125.0,55.0,2024-03-02
+83,Wrap de pollo,Snacks Salados,95.0,47.5,2023-06-05
+84,Ensalada cesar,Snacks Salados,110.0,46.2,2024-07-06
+85,Croque monsieur,Snacks Salados,110.0,55.0,2022-12-26
+86,Molletes,Snacks Salados,95.0,45.6,2024-02-25
+87,Chilaquiles cafeteria,Snacks Salados,95.0,46.55,2024-09-21
+88,Baguette de pavo,Snacks Salados,125.0,63.75,2024-07-10
+89,Cafe en grano Veracruz 250g,Para Llevar,120.0,67.2,2021-05-14
+90,Cafe en grano Veracruz 500g,Para Llevar,210.0,98.7,2021-11-27
+91,Cafe en grano Veracruz 1kg,Para Llevar,380.0,190.0,2021-02-27
+92,Cafe en grano Chiapas 250g,Para Llevar,120.0,60.0,2024-02-17
+93,Cafe en grano Chiapas 500g,Para Llevar,210.0,105.0,2023-06-30
+94,Cafe en grano Chiapas 1kg,Para Llevar,380.0,216.6,2024-02-19
+95,Cafe en grano Oaxaca 250g,Para Llevar,120.0,57.6,2020-10-25
+96,Cafe en grano Oaxaca 500g,Para Llevar,210.0,123.9,2022-08-12
+98,Cafe en grano Colima 250g,Para Llevar,120.0,54.0,2022-02-25
+99,Cafe en grano Colima 500g,Para Llevar,210.0,107.1,2024-01-23
+100,Cafe en grano Colima 1kg,Para Llevar,380.0,224.2,2023-10-31
+101,Capsulas compatibles x10,Para Llevar,95.0,48.45,2021-12-15
+102,Capsulas compatibles x20,Para Llevar,175.0,98.0,2021-12-02
+103,Cafe molido 250g,Para Llevar,115.0,63.25,2021-02-23
+104,Taza ceramica AzTech,Para Llevar,150.0,85.5,2023-06-23
+105,Termo AzTech,Para Llevar,290.0,142.1,2021-01-11
+106,Prensa francesa,Para Llevar,420.0,210.0,2022-08-07
+107,Filtros x100,Para Llevar,70.0,37.8,2023-07-14
+108,Agua mineral,Bebidas,55.0,25.85,2023-09-17
+109,Jugo de naranja,Bebidas,38.0,15.2,2021-10-05
+110,Smoothie de fresa,Bebidas,45.0,21.6,2023-02-01
+111,Smoothie verde,Bebidas,32.0,11.84,2022-02-13
+112,Kombucha de jamaica,Bebidas,28.0,13.72,2021-11-26
+113,Refresco artesanal,Bebidas,45.0,21.15,2024-05-13
+114,Te en botella,Bebidas,38.0,15.58,2024-01-24
+115,Leche de avena,Bebidas,28.0,14.0,2023-08-15
+116,Limonada de coco,Bebidas,55.0,22.0,2022-08-19
+117,Jugo verde detox,Bebidas,45.0,19.35,2021-03-23
+118,Macaron,Pasteleria,48.0,23.52,2024-01-16
+119,Eclair,Pasteleria,68.0,26.52,2024-08-08
+120,Profiterol,Pasteleria,48.0,17.76,2021-10-20
+121,Selva negra,Pasteleria,58.0,23.2,2023-10-12
+122,Volcan de chocolate,Pasteleria,35.0,16.8,2022-06-20
+123,Cupcake,Pasteleria,58.0,27.26,2021-10-28
+124,Mini dona x3,Pasteleria,48.0,22.08,2023-01-27
+125,Strudel,Pasteleria,48.0,17.76,2021-12-13
+126,Rol de canela,Panaderia,20.0,8.6,2023-02-21
+127,Trenza de chocolate,Panaderia,26.0,9.88,2023-06-12
+128,Chausson de manzana,Panaderia,26.0,8.32,2024-03-27
+129,Brioche,Panaderia,20.0,7.2,2021-03-16
+130,Pan integral rebanada,Panaderia,20.0,7.0,2024-02-28
+131,Bisquet integral,Panaderia,26.0,10.92,2022-04-13
+132,Chocolate de mesa 200g,Para Llevar,480.0,240.0,2024-05-06
+133,Mermelada artesanal,Para Llevar,250.0,142.5,2021-02-15
+134,Miel de abeja 500g,Para Llevar,120.0,57.6,2021-09-08
+135,Granola AzTech 400g,Para Llevar,160.0,80.0,2021-02-25
+136,Set 2 tazas,Para Llevar,250.0,127.5,2022-03-29
+137,Cafetera de goteo,Para Llevar,120.0,69.6,2022-11-15
+138,Molino manual,Para Llevar,250.0,142.5,2023-08-24
+139,Pan de muerto,Temporada,45.0,16.65,2021-02-25
+140,Rosca de reyes,Temporada,260.0,119.6,2022-12-29
+141,Frappe de calabaza,Temporada,78.0,37.44,2022-05-06
+142,Latte de canela,Temporada,52.0,20.28,2023-05-02
+143,Ponche navideno,Temporada,55.0,21.45,2021-09-09
+144,Chocolate de temporada,Temporada,60.0,28.2,2021-08-13
+130,Pan integral rebanada,Panaderia,20.0,7.0,2024-02-28
+90,Cafe en grano Veracruz 500g,Para Llevar,210.0,98.7,2021-11-27
