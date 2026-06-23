@@ -8,7 +8,8 @@ st.set_page_config(
     layout="wide"
 )
 
-TU_NOMBRE = "Dafne Mendoza Gatica, Zaira Torres Goiz y Karla Amairani Carranza Medina"
+TU_NOMBRE = "Dafne, Zaira y Karla"
+TU_ID     = "184344, 183800, 184047"
 
 
 TU_INSIGHT = """
