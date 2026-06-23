@@ -15,7 +15,7 @@ TU_ID     = "184344, 183800, 184047"
 TU_INSIGHT = """
 Descubrimos que las sucursales con más empleados tienen ventas 
 casi perfectamente correlacionadas (0.98), mientras que La Paz 
-con el menor número de empleados genera solo $423,000 vs $1.6M 
+con el menor número de empleados genera solo 423,000 vs 1.6M 
 de Angelópolis. Recomiendo contratar más personal en La Paz y 
 Cholula para incrementar sus ventas al menos un 30%.
 """
