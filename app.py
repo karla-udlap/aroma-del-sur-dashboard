@@ -8,12 +8,15 @@ st.set_page_config(
     layout="wide"
 )
 
-TU_NOMBRE = "Tu Nombre Aqui"
-TU_ID     = "000000"
+TU_NOMBRE = "Dafne Mendoza Gatica, Zaira Torres Goiz y Karla Amairani Carranza Medina"
+
 
 TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
+Descubrimos que las sucursales con más empleados tienen ventas 
+casi perfectamente correlacionadas (0.98), mientras que La Paz 
+con el menor número de empleados genera solo $423,000 vs $1.6M 
+de Angelópolis. Recomiendo contratar más personal en La Paz y 
+Cholula para incrementar sus ventas al menos un 30%.
 """
 
 @st.cache_data
